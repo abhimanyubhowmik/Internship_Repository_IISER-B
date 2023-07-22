@@ -85,7 +85,11 @@ roslaunch turtlebot3_slam turtlebot3_slam.launch
 <h3>1. Simulation</h3>
 
 
-https://github.com/abhimanyubhowmik/TrackerBot/assets/72135456/eaed8dc8-102f-4198-b432-6f4fb06c4e33
+
+
+https://github.com/abhimanyubhowmik/Internship_Repository_IISER-B/assets/72135456/bab570ba-ea04-4512-a105-00b954f58124
+
+
 
 
 <p align="center">
