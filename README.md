@@ -92,8 +92,8 @@ https://github.com/abhimanyubhowmik/TrackerBot/assets/72135456/eaed8dc8-102f-419
 
 <table border="0">
  <tr>
-    <td><img src="Images/Pos_and_Vel.png" alt="turtlebot-side 1" width="250"/></td>
-    <td><img src="Images/Covariance%20Matrices.png" alt="turtlebot-side 2" width="250"/></td>
+    <td><img src="Images/Pos_and_Vel.png" alt="turtlebot-side 1" width="500"/></td>
+    <td><img src="Images/Covariance%20Matrices.png" alt="turtlebot-side 2" width="500"/></td>
  </tr>
 </table>
 
@@ -113,8 +113,8 @@ https://github.com/abhimanyubhowmik/Internship_Repository_IISER-B/assets/7213545
 
 <table border="0">
  <tr>
-    <td><img src="Images/rqt.png" alt="turtlebot-side 1" width="250"/></td>
-    <td><img src="Images/kalman_filter.png" alt="turtlebot-side 2" width="250"/></td>
+    <td><img src="Images/rqt.png" alt="turtlebot-side 1" width=""/></td>
+    <td><img src="Images/kalman_filter.png" alt="turtlebot-side 2" width=""/></td>
  </tr>
 
 </table>
