@@ -80,11 +80,6 @@ roslaunch turtlebot3_slam turtlebot3_slam.launch
 
 
 
-
-<h2>ROS Nodes</h2>
-
-<img src="Images/rqt_plot.png" alt="wolfram" width=""/>
-
 <h2>Results</h2>
 
 <h3>1. Simulation</h3>
@@ -104,13 +99,15 @@ https://github.com/abhimanyubhowmik/TrackerBot/assets/72135456/eaed8dc8-102f-419
 
 <h3>2. Hardware Implementation</h3>
 
+<p align="center">
 
+<table border="0">
  <tr>
     <td><img src="Images/rqt.png" alt="turtlebot-side 1" width="250"/></td>
     <td><img src="Images/kalman_filter.png" alt="turtlebot-side 2" width="250"/></td>
  </tr>
 
-
+</table>
   
 
 ## Contributors:
