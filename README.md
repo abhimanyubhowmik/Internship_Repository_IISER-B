@@ -99,6 +99,16 @@ https://github.com/abhimanyubhowmik/TrackerBot/assets/72135456/eaed8dc8-102f-419
 
 <h3>2. Hardware Implementation</h3>
 
+
+https://github.com/abhimanyubhowmik/Internship_Repository_IISER-B/assets/72135456/1c30e134-39f1-46ca-a35c-0f4f1d5c10f9
+
+
+
+https://github.com/abhimanyubhowmik/Internship_Repository_IISER-B/assets/72135456/f36e2b71-f36c-4d6f-abe0-5d2f44dade5f
+
+
+
+
 <p align="center">
 
 <table border="0">
