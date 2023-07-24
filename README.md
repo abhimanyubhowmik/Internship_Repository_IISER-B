@@ -124,10 +124,11 @@ https://github.com/abhimanyubhowmik/Internship_Repository_IISER-B/assets/7213545
 </table>
   
 
-## Contributors:
+## Collaborators:
 
 [Abhimanyu Bhowmik](https://github.com/abhimanyubhowmik), 
-[Madhushree Sannigrahi](https://github.com/Madhushree2000)
+[Madhushree Sannigrahi](https://github.com/Madhushree2000),
+[Dr. P.B. Sujit](https://scholar.google.com/citations?user=qqwyAwoAAAAJ&hl=en)
 
 
 
@@ -135,6 +136,5 @@ https://github.com/abhimanyubhowmik/Internship_Repository_IISER-B/assets/7213545
 
 [MoonLab@IISER-B](https://moonlab.iiserb.ac.in/)
 
-[Dr. P.B. Sujit](https://scholar.google.com/citations?user=qqwyAwoAAAAJ&hl=en)
 
 
