@@ -1,4 +1,4 @@
-<h1 align="center">Object Detectation and Tracking using Turtle Bot</h1>
+<h1 align="center">Object Detection and Tracking using Turtle Bot</h1>
 
 <p align="center">
 <img src="Images/moonlab.png" width="1500" height="">
